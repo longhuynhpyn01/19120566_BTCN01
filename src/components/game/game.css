@@ -1,0 +1,18 @@
+
+.game {
+    display: flex;
+    flex-direction: row;
+    padding: 40px 100px;
+}
+
+.game-info {
+    margin-left: 20px;
+}
+
+.reset-game {
+    margin-top: 24px;
+}
+
+.status-game {
+    margin-top: 8px;
+}
